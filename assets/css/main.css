@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f0f2;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins"), url(~assets/fonts/Poppins-Regular.ttf) format("truetype");
+    font-display: swap;
+    font-style: normal;
+}
+html {
+    font-family: "Poppins";
+}
