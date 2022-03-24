@@ -1,0 +1,8 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/flavio/workspace/vuejs-resume-web/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

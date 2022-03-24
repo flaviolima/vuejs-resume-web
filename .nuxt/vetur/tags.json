@@ -1,0 +1,17 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "Banner": {
+    "description": "Auto imported from components/Banner.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu.vue"
+  },
+  "Skills": {
+    "description": "Auto imported from components/Skills.vue"
+  }
+}
